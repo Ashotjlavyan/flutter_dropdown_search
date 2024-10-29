@@ -71,7 +71,7 @@ dropdown_search: <lastest version>
 
 ## Import
 ```dart
-import 'package:dropdown_search/dropdown_search.dart';
+import 'package:dropdown_search_sniffers/dropdown_search.dart';
 ```
 
 
